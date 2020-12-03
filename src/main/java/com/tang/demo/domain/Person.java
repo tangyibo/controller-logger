@@ -1,4 +1,4 @@
-package com.tang.demo.controller;
+package com.tang.demo.domain;
 
 import java.util.List;
 
